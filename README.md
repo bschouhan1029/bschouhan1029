@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bschouhan1029
 - 👀 I’m interested in DevOps and Cloud.
-- 🌱 I’m currently learning DevOps, CI/CD, Ansible, Kubernetes and AWS.
+- 🌱 I’m currently learning Linux, Python, Go, JS, Docker, Terraform, Ansible, Kubernetes, AWS and GCP.
 
 <!---
 bschouhan1029/bschouhan1029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
